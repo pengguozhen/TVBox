@@ -3,7 +3,7 @@
 "lives":
 [{"name": "电视直播", 
 "type": 0,
-"url": "https://mirror.ghproxy.com/https://github.com/pengguozhen/TVBox/blob/main/live.txt",
+"url": "./live.txt",
 "playerType": 1
 }], 
  "sites": [
