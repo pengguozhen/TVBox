@@ -1,6 +1,6 @@
 央视频道,#genre#
-CCTV-1 综合,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV-2 财经,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
+CCTV-2 财经,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV-3 综艺,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
 CCTV-4 中文国际,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
 CCTV-5 体育,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
